@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Outreach
-permalink: /outreach
+title: Resume
+permalink: /resume
 ---
 
 ###....Work in progress...###
