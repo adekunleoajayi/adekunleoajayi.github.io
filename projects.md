@@ -6,6 +6,4 @@ permalink: /projects/
 
 
 
-
-
 ###....Work in progress...###
