@@ -17,6 +17,7 @@ width:590px;
 }
 </style>
 
+<div style="display: flex;">
 
 <div id="wrap">
     <div id="left_col">
@@ -47,6 +48,7 @@ In case you do not know "Philosophy is written in that great book which ever lie
 
     
     </div>
+ </div>
 </div>
 
 
