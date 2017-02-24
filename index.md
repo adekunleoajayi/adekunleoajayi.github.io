@@ -19,23 +19,19 @@ width:590px;
 
 
 <div id="wrap">
+
     <div id="left_col">
     <img src="{{site.baseurl}}/img/AJ.jpeg" align="middle" style="width:150px;height:150px;"> <br>
     <p></p>
     <img src="{{site.baseurl}}/img/Africa_1.jpeg" align="middle" style="width:150px;height:170px;"> <br>
     <p></p>
     <a href="https://en.wikipedia.org/wiki/Climate_change" target="_blank"><img src="{{site.baseurl}}/img/climate_change.jpg" align="middle" style="width:150px;height:130px;"> </a><br>
-    
-   
-    
     </div>
 
-    <div id="right_col">
-<p style='text-align: justify;'>
-You are welcome to my page. My name is Adekunle Opeoluwa Ajayi, I am a doctoral student of <a href="https://en.wikipedia.org/wiki/Physical_oceanography" target="_blank">Physical Oceanography</a> at the University Grenoble Alpes, (<a href="http://www.univ-grenoble-alpes.fr/" target="_blank">UGA</a>) France. I am a member of <a href="http://meom-group.github.io/" target="_blank">MEOM</a>, a computational oceanography research group of the Institut des Géosciences de l'Environnement (<a href="http://www.ige-grenoble.fr/" target="_blank">IGE</a>), UGA.</p>
+
 
 <p style='text-align: justify;'>
-I am a self motivated young scientist, passionate about understanding the physics of the ocean. I am equally interested in data science and machine learning as it pertains to earth sciences.</p>
+You are welcome to my page. My name is Adekunle Opeoluwa Ajayi, I am a doctoral student of <a href="https://en.wikipedia.org/wiki/Physical_oceanography" target="_blank">Physical Oceanography</a> at the University Grenoble Alpes, (<a href="http://www.univ-grenoble-alpes.fr/" target="_blank">UGA</a>) France. I am a member of <a href="http://meom-group.github.io/" target="_blank">MEOM</a>, a computational oceanography research group of the Institut des Géosciences de l'Environnement (<a href="http://www.ige-grenoble.fr/" target="_blank">IGE</a>), UGA. I am a self motivated young scientist, passionate about understanding the physics of the ocean. I am equally interested in data science and machine learning as it pertains to earth sciences.</p>
 
 <p style='text-align: justify;'>
 I support the <a href="https://en.wikipedia.org/wiki/Paris_Agreement" target="_blank"> Paris climate aggrement</a> as it reperesents humans consious step towards fighting climate change. It is not a rumor that the climate of our very planet is changing and from current research it is obvious that our activity as humans is largely responsible for this. It is thus imperative for us to collectively work towards cleaning the mess we created.  It is my earnest desire that the we impliment this agreement as planed.</p>
@@ -58,25 +54,11 @@ In case you do not know "Philosophy is written in that great book which ever lie
 
     
     </div>
-</div>
 
 
 
-<!---
- You are welcome to my webpage, Cheers!
- 
- <img src="{{site.baseurl}}/img/Africa_1.jpeg" align="middle" style="width:150px;height:170px;"> <br>
- <p></p>
- I believe in an emerging Africa, with bright future ahead for both old and young. A future with robost economy reflecting across the global, where child education is giving first class piority and the available resources is well managed by those voted into power. 
- <p style='text-align: justify;'>
- When am not doing scientific research, I like to think and discuss about my continent Africa, her problems, in particular poor educational system. How do we improve our educational system in light of poor economy ? how do we stop brain drain ? how do we advance interms of science and technology. Like any educationtist, I strongly believe that sound education is pivotal towards the economic growth of any nation.</p>
- 
- </div>
- </div>
- 
- You are most welcome to my webpage, I hope you find some impactfull
- My interest spans through physical oceanography, geophysical fluid dynamics and climate dynamics.
- -->
+
+
 
 
 
