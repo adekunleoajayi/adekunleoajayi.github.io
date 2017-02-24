@@ -67,6 +67,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    margin-top: 0;
 }
 
 li {
@@ -196,7 +197,7 @@ pre {
     > svg {
         display: inline-block;
         width: 16px;
-        height: 16px;
+        height: 6px;
         vertical-align: middle;
 
         path {
