@@ -10,8 +10,8 @@ My research work under the supervision of <a href="http://lesommer.github.io/ " 
 <p></p>
 
 <div style="display: flex; justify-content: center;">
-<img src="{{site.baseurl}}/img/NATL60_white.png" align="middle" style="width:auto;height:auto;max-width: 35.0% ;">
-<img src="{{site.baseurl}}/img/SWOT_design.png" align="middle" style="width:auto;height:auto;max-width: 40.0% ;">
+<img src="{{site.baseurl}}/img/NATL60_white.png" align="middle" style="width:350px;height:250px;">
+<img src="{{site.baseurl}}/img/SWOT_design.png" align="middle" style="width:300px;height:250px;">
 </div>
 
 <p></p>
