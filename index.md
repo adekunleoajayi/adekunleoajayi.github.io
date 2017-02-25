@@ -9,11 +9,11 @@ margin:0 auto;
 }
 #left_col {
 float:left;
-width:160px;
+width:auto;height:auto;max-width: 20.0% ;
 }
 #right_col {
 float:right;
-width:590px;
+width:auto;height:auto;max-width: 79.0% ;
 }
 </style>
 
@@ -21,11 +21,11 @@ width:590px;
 
 <div id="wrap">
     <div id="left_col">
-    <img src="{{site.baseurl}}/img/AJ.jpeg" align="middle" style="width:150px;height:150px;"> <br>
+    <img src="{{site.baseurl}}/img/AJ.jpeg" align="middle" style="width:auto;height:auto;max-width: 100.0% ;"> <br>
     <p></p>
-    <img src="{{site.baseurl}}/img/Africa_1.jpeg" align="middle" style="width:150px;height:170px;"> <br>
+    <img src="{{site.baseurl}}/img/Africa_1.jpeg" align="middle" style="width:auto;height:auto;max-width: 100.0% ;"> <br>
     <p></p>
-    <a href="https://en.wikipedia.org/wiki/Climate_change" target="_blank"><img src="{{site.baseurl}}/img/climate_change.jpg" align="middle" style="width:150px;height:130px;"> </a><br>
+    <a href="https://en.wikipedia.org/wiki/Climate_change" target="_blank"><img src="{{site.baseurl}}/img/climate_change.jpg" align="middle" style="width:auto;height:auto;max-width: 100.0% ;"> </a><br>
     </div>
 
 <div id="right_col">
