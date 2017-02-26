@@ -57,10 +57,10 @@ Note: Statement of purpose / Letter of Motivation are quite similar but sometime
 
 #### 2. Who gives scholarship/grant/award ?
 <p style='text-align: justify;'>
-Scholarships are given mostly by universities and federal governments. Nonetheless, a large portion of awards are equally available from other awarding bodies such as, research institutes, private companys, research and development units of industries, banks, government parastatals, etc. For awarding institutions other than the university, the funding might be handed directly to the reciepient or allocated via the university. </p>
+Scholarships are given mostly by universities and federal governments. Nonetheless, a large portion of awards are equally available from other bodies such as, research institutes, private companies, research and development units of industries, banks, government parastatals, etc. For awarding institutions other than the university, the funding might be handed directly to the recipient or allocated via the university. </p>
 
 <p style='text-align: justify;'>
-The call for scholarship application are sometimes handled by the awarding institution (not the university in this case), and it becomes very difficult for prospecting students to get information as to the advertized opening. So, it is highly recommend to look beyond the university environment if you are seriously in need of a scholarship.   </p>
+The call for scholarship application are sometimes handled by the awarding institution (not the university in this case), and it becomes very difficult for prospecting students to get information as to the advertised opening. So, it is highly recommended to look beyond the university environment if you are seriously in need of a scholarship.   </p>
 
 
 #### 3. Where to find a scholarship advert ?
