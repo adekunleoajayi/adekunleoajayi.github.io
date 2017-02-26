@@ -14,7 +14,7 @@ fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <p style='text-align: justify;'>
-Scholarship application can sometimes be very tedious but the stress is nothing compare to the joy of studying in a conducive environment with state of the art facilities and a zero personal financial responsibility. There are couple of things to note if you are interested in applying to one or many of these numerous available scholarship opportunities. Some scholarships offers are specifically slated for students from developing countries while some are  open to all students irrespective of country or gender. Below is a list of the basic things that are needed for an application. The list differs depending on the requirement of the scholarship body. However, most of the listed things are always included. </p>
+Scholarship application can sometimes be very tedious but the stress is nothing compare to the joy of studying in a conducive environment with state of the art facilities and a zero personal financial responsibility. There are couple of things to note if you are interested in applying to one or many of these numerous available scholarship opportunities. Some scholarships offers are specifically slated for students from developing countries while some are  open to all students irrespective of country or gender. In this write up, you will find information as regard necessary documents needed for scholarship application, where to find a scholarship offer, how to apply to a scholarship and how to contact a potential supervisor.  </p>
 
 #### 1. What documents do you need ?
 
@@ -129,11 +129,11 @@ The application documents might be more complex compared to what I listed above 
 
 #### 5. How to contact a potential supervisor
 <p style='text-align: justify;'>
-This part is mostly useful for Phd applicants. For students who are not oppurtune to meet a potential supervisor in person for the first meeting, then you need to be skilful in writing an email that will catch the attention of the professor. There are do's and don't to this and I personally find the <a href="http://www.cs.virginia.edu/~evans/advice/prospective.html" target="_blank"> talk by Professor David</a> good enough as a summary of what you should do and not do. </p>
+This part is mostly useful for Phd applicants. For students who are not opportune to meet a potential supervisor in person for the first meeting, then you need to be skilful in writing an email that will catch the attention of the professor. There are do's and don't to this and I personally find the <a href="http://www.cs.virginia.edu/~evans/advice/prospective.html" target="_blank"> talk by Professor David</a> good enough as a summary of what you should do and not do. </p>
 
 
 <p style='text-align: justify;'>
-You can contact me via email if you need further clarification. I hope you find that fund to finance your academics. Study hard and attain excellence, I wish you good luck. Cheers!
+As highlighted above, you can attain your academic pinnacle by claiming one of the several scholarships opportunity available out there. Yes, the search may not be smooth most especially if you are from a developing country and you desire a postgraduate study in a developed country (hmmm, don't be afraid, I survived that divide as-well). Nevertheless, perseverance and tenacity are the watch words, don't be disappointed when the rejection letter arrives early, just hang on, the acceptance letter is right behind it. I wish you good luck in your ultimate search. Cheers!
 </p>
 
 <div class="fb-share-button" data-href="https://adeajayi-kunle.github.io/2017/02/23/scholarship-tips/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fadeajayi-kunle.github.io%2F2017%2F02%2F23%2Fscholarship-tips%2F&amp;src=sdkpreparse">Share</a></div>
