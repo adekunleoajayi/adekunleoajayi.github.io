@@ -46,10 +46,10 @@ Note: Statement of purpose / Letter of Motivation are quite similar but sometime
 #### 1.2 Optional but important
 
 <p style='text-align: justify;'>
-<b>TOEFL - Test of English as Foreign Language</b> : TOEFL has over the years become a necessary exam to be taken by students applying to international programs conducted in English language but who are natives of non-English speaking countries. However, students of certain countries (eg Nigeria, Ghana) are exempted from taking the exams by some universities in Canada, USA and Europe because English is the official language in Nigeria. However, its advisable to write the test as it increases your chances of been selected amongst a vast pool of qualified candidates. Detailed information about the test, venue , cost and materials can be obtained from the test website. It is worth noting that IELTS serves the same purpose as TOEFL.</p>
+<b>TOEFL - <a href="https://www.ets.org/toefl" target="_blank">Test of English as a Foreign Language</a> </b> : TOEFL has over the years become a necessary exam to be taken by students applying to international programs conducted in English language but who are natives of non-English speaking countries. However, students of certain countries (eg Nigeria, Ghana) are exempted from taking the exams by some universities in Canada, USA and Europe because English is the official language in Nigeria. However, its advisable to write the test as it increases your chances of been selected amongst a vast pool of qualified candidates. Detailed information about the test, venue , cost and materials can be obtained from the test website. It is worth noting that IELTS serves the same purpose as TOEFL.</p>
 
 <p style='text-align: justify;'>
-<b>GRE- Graduate Record Examination </b>: GRE is mostly required by universities in USA and Canada for science and engineering-oriented courses.</p>
+<b>GRE - <a href="https://www.ets.org/gre/" target="_blank">Graduate Record Examinations </a> </b>: GRE is mostly required by universities in USA and Canada for science and engineering-oriented courses.</p>
 
 <p style='text-align: justify;'>
 <b>Letter of English Language proficiency </b>: In lieu of TOEFL and IELTS, some universities in Nigeria like FUTA do issue Letter of English Language proficiency to support graduate application to foreign universities. You can request for this at the office of the registrar. Also, students from institutions (irrespective of the country) where English language is the official mode of instruction (degree taught and examined in English) can equally request for this certificate to be used in lieu of TOEFL/IELTS. </p>
@@ -57,10 +57,10 @@ Note: Statement of purpose / Letter of Motivation are quite similar but sometime
 
 #### 2. Who gives scholarship/grant/award ?
 <p style='text-align: justify;'>
-Scholarships are given mostly by universities and federal governments. Nonetheless, a large portion of awards are equally available from other bodies such as, research institutes, private companies, research and development units of industries, banks, government parastatals, etc. For awarding institutions other than the university, the funding might be handed directly to the recipient or allocated via the university. </p>
+Scholarships are given mostly by universities and federal governments. Nonetheless, a large number of awards are equally available from other agencies such as, research institutes, private companies, research and development units of industries, banks, government parastatals, etc. In a situation where the awarding institution is not a university, the funding might be handed directly to the recipient or allocated via the university. </p>
 
 <p style='text-align: justify;'>
-The call for scholarship applications are sometimes handled by the awarding institutions (not the university in this case), and it becomes very difficult for prospecting students to get information as to the advertised openings. So, it is highly recommended to look beyond the university environment if you are seriously in need of a scholarship.   </p>
+The call for scholarship applications are sometimes handled by the awarding institutions (not the university in this case), and it could be difficult for prospecting students to get information as to the advertised openings. So, it is highly recommended to look beyond the university environment if you are seriously in need of a scholarship. </p>
 
 
 #### 3. Where to find a scholarship advert ?
@@ -133,7 +133,7 @@ This part is mostly useful for Phd applicants. For students who are not opportun
 
 
 <p style='text-align: justify;'>
-As highlighted above, you can attain your academic pinnacle by claiming one of the several scholarships opportunity available out there. Yes, the search may not be smooth most especially if you are from a developing country and you desire a postgraduate study in a developed country (hmmm, don't be afraid, I survived that divide as-well). Nevertheless, perseverance and tenacity are the watch words, don't be disappointed when the rejection letter arrives early, just hang on, the acceptance letter is right behind it. I wish you good luck in your ultimate search. Cheers!
+As highlighted above, you can attain your academic pinnacle by claiming one of the several scholarships available out there. Yes, the search may not be smooth most especially if you are from a developing country and you desire a postgraduate study in a developed country (hmmm, don't be afraid, I survived that divide as-well). Nevertheless, determination is the watchword. Don't be disappointed when the rejection letter arrives early, just hang on, the acceptance letter will surely follow. I wish you good luck in your ultimate search. Cheers!
 </p>
 
 <div class="fb-share-button" data-href="https://adeajayi-kunle.github.io/2017/02/23/scholarship-tips/" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fadeajayi-kunle.github.io%2F2017%2F02%2F23%2Fscholarship-tips%2F&amp;src=sdkpreparse">Share</a></div>
