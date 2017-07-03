@@ -10,7 +10,7 @@ permalink: /resume
 2007 – 2012 **B.Tech in Applied Mathematics**. [FUTA](http://www.futa.edu.ng){:target="_blank"}, Ondo, Nigeria.<br>
 
 **Professional Experience**<br>
-2016 – ...... **Doctoral Research Fellow**, [IGE](http://www.ige-grenoble.fr/){:target="_blank"}, Grenoble, France.<br>
+2016 – ...... **Doctoral Researcher**, [IGE](http://www.ige-grenoble.fr/){:target="_blank"}, Grenoble, France.<br>
 2016 – 2016 **Graduate Intern**, [LEGI](http://www.legi.grenoble-inp.fr/){:target="_blank"}, Grenoble, France. <br>
 2014 – 2015 **Graduate Research Assistant**, FUTA, Ondo, Nigeria.<br>
 2013 – 2014 **Graduate/Teaching Assistant**, BSU, Benue, Nigeria.<br>
