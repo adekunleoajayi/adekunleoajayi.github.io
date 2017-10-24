@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: MyHome
 ---
 <style type="text/css">
 #wrap {
