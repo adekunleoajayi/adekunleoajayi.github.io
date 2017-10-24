@@ -5,7 +5,7 @@ permalink: /resume
 ---
 **Education** <br>
 2016 – ...... **Ph.D in Physical Oceanography** (in view), [UGA](http://www.univ-grenoble-alpes.fr/){:target="_blank"}, Grenoble, France. <br>
-2015 – 2016 **M.sc in Environmental Fluid Mechanics**. UJF, Grenoble, France. <br>
+2015 – 2016 **M.sc in Environmental Fluid Mechanics**. UGA, Grenoble, France. <br>
 2014 – 2015 **PGD in Earth System Physics**. [ICTP](http://www.ictp.it){:target="_blank"}, Trieste, Italy.<br>
 2007 – 2012 **B.Tech in Applied Mathematics**. [FUTA](http://www.futa.edu.ng){:target="_blank"}, Ondo, Nigeria.<br>
 
