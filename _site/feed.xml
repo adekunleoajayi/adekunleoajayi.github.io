@@ -5,9 +5,59 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Sep 2018 19:50:13 +0200</pubDate>
-    <lastBuildDate>Sun, 02 Sep 2018 19:50:13 +0200</lastBuildDate>
+    <pubDate>Tue, 19 Mar 2019 16:04:40 +0100</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 16:04:40 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Mesoscale Eddy Energy Workshop </title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+Sources and Sinks of Ocean Mesoscale Eddy Energy
+&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;!-- Add image --&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;/img/activity_pics/2019_03_12_US_CLIVAR_OME.jpg&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; &lt;/center&gt;
+</description>
+        <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/activity/2019/03/12/US_CLIVAR_OME/</link>
+        <guid isPermaLink="true">http://localhost:4000/activity/2019/03/12/US_CLIVAR_OME/</guid>
+        
+        
+        <category>activity</category>
+        
+      </item>
+    
+      <item>
+        <title>DRAKKAR 2019 Annual Workshop </title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+Drakkar workshop is an annual scientific gathering, where NEMO based ocean model users discuss scientific results, progress achieved with the model configuration and also future plans to improve the model development. During the meeting, I gave a talk on the regimes of inverse energy cascade in ocean mesoscale inertial range based on the outputs of two submesoscale permitting ocean models NATL60 and HYCOM50.
+&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Jan 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/activity/2019/01/21/drakkar_meeting_2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/activity/2019/01/21/drakkar_meeting_2019/</guid>
+        
+        
+        <category>activity</category>
+        
+      </item>
+    
+      <item>
+        <title>Journees Nationales SWOT 2018</title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+Journees Nationales SWOT is a scientific gathering aim at bringing together the French &lt;a href=&quot;https://swot.jpl.nasa.gov/&quot; target=&quot;_blank&quot;&gt;SWOT&lt;/a&gt; community working on SWOT related research (oceanography and hydrology).  This year, at the level of the meeting, updates on the workdone so far (as regard preparation for SWOT) and identifying particular concerns and planing for the future scientific work was of great piority. There were presentation by participants on the ongoing/concluded research work. The meeting took place within the &lt;a href=&quot;https://cnes.fr/&quot;&gt;CNES&lt;/a&gt; premises at Toulouse.  &lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/activity/2018/11/20/journees_nationales_swot/</link>
+        <guid isPermaLink="true">http://localhost:4000/activity/2018/11/20/journees_nationales_swot/</guid>
+        
+        
+        <category>activity</category>
+        
+      </item>
     
       <item>
         <title>Oceanhack : Data science + Oceanography</title>
@@ -161,77 +211,6 @@ The Ocean sciences meeting is a biennial scientific meeting for marine oriented 
         <pubDate>Mon, 15 Jan 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/activity/2018/01/15/data-science-for-geoscience/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/01/15/data-science-for-geoscience/</guid>
-        
-        
-        <category>activity</category>
-        
-      </item>
-    
-      <item>
-        <title>GODAE School on Operational Oceanography</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-The GODAE school on operational oceanography is part of the education and training initiative of the GODAE OceanView, an organisation focused on the development and improvement of ocean forecasting systems.&lt;/p&gt;
-
-&lt;p style=&quot;text-align: justify;&quot;&gt;
-The two weeks summer school included lectures and hands-on activities that spanned through the concepts; data assimilation, model integration and almost all the modern tools in operational oceanography, as well as a day visitation to the SOCIB research vessels. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;/img/GODAE/2017_10_13_godae_0.JPG&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; &lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;img src=&quot;/img/GODAE/2017_10_13_godae_1.PNG&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; 
-&lt;img src=&quot;/img/GODAE/2017_10_13_godae_2.JPG&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; 
-&lt;img src=&quot;/img/GODAE/2017_10_13_godae_3.JPG&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; 
-&lt;/center&gt;
-</description>
-        <pubDate>Mon, 02 Oct 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/activity/2017/10/02/opeartional-oceanography/</link>
-        <guid isPermaLink="true">http://localhost:4000/activity/2017/10/02/opeartional-oceanography/</guid>
-        
-        
-        <category>activity</category>
-        
-      </item>
-    
-      <item>
-        <title>Physics of the Ocean</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-&quot;Physics of the Ocean&quot; is a summer school funded by WE-Heraeus Foundation with the key objective of providing a broader view of the ocean system from a physical perspective, encompassing a large range of scales and their interactions. The summer school also provided introductory lecture on the observations and models, theory and statistical methods used by environmental and ocean physicists. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;/img/activity_pics/2017_07_14_physics_of_the_ocean.JPG&quot; width=&quot;70%&quot; border=&quot;2&quot; /&gt; &lt;/center&gt;
-</description>
-        <pubDate>Sun, 09 Jul 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/activity/2017/07/09/pyhsics-of-the-ocean/</link>
-        <guid isPermaLink="true">http://localhost:4000/activity/2017/07/09/pyhsics-of-the-ocean/</guid>
-        
-        
-        <category>activity</category>
-        
-      </item>
-    
-      <item>
-        <title>EGU General Assembly 2017</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-The European Geosciences Union, General Assembly is the biggest gathering for geoscience community in Europe. Every year, the assembly brings together geoscientists from all over the world to one meeting, covering all disciplines of the Earth, planetary and space sciences. &lt;/p&gt;
-
-&lt;p style=&quot;text-align: justify;&quot;&gt;
-EGU provides a platform for scientists, especially early career researchers, to present their work and discuss their ideas with experts in all fields of geoscience. This year, I was opportuned to attend the EGU 2017 meeting and I gave a presentation on my just concluded master thesis, which was about the laboratory modelling of the interaction of currents and topography in the Antarctic Circumpolar current. I was intrigued by the large number of scientists that attended the conference, giving my first international talk to such a great audience was also interesting for me. Aside from the scientific expenditure, attending EGU was also an opportunity to explore the beautiful city of Vienna. &lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;img src=&quot;/img/activity_pics/2017_04_23_EGU_1.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;img src=&quot;/img/activity_pics/2017_04_23_EGU_2.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;/center&gt;
-</description>
-        <pubDate>Sun, 23 Apr 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/activity/2017/04/23/EGU-general-assembly/</link>
-        <guid isPermaLink="true">http://localhost:4000/activity/2017/04/23/EGU-general-assembly/</guid>
         
         
         <category>activity</category>
