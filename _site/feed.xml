@@ -5,9 +5,29 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Mar 2019 16:04:40 +0100</pubDate>
-    <lastBuildDate>Tue, 19 Mar 2019 16:04:40 +0100</lastBuildDate>
+    <pubDate>Thu, 16 May 2019 20:23:40 +0200</pubDate>
+    <lastBuildDate>Thu, 16 May 2019 20:23:40 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>EGU General Assembly 2019</title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+EGU General Assembly 2019
+&lt;/p&gt;
+
+&lt;!-- Add image --&gt;
+&lt;center&gt;
+&lt;img src=&quot;/img/activity_pics/2019_04_07_EGU19.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
+&lt;/center&gt;
+</description>
+        <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/activity/2019/04/07/EGU-general-assembly/</link>
+        <guid isPermaLink="true">http://localhost:4000/activity/2019/04/07/EGU-general-assembly/</guid>
+        
+        
+        <category>activity</category>
+        
+      </item>
     
       <item>
         <title>Mesoscale Eddy Energy Workshop </title>
@@ -192,25 +212,6 @@ The Ocean sciences meeting is a biennial scientific meeting for marine oriented 
         <pubDate>Sun, 11 Feb 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/activity/2018/02/11/ocean-sciences-meetings/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/02/11/ocean-sciences-meetings/</guid>
-        
-        
-        <category>activity</category>
-        
-      </item>
-    
-      <item>
-        <title>Data Sciences for Geosciences</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-&lt;a href=&quot;https://dsg2018.wordpress.com/&quot; target=&quot;_blank&quot;&gt; DSG &lt;/a&gt;is a winter school for doctoral researchers in the geoscience domain. The aim of the course is to learn the basics of machine learning and statistical modelling with their implementation for geoscientific problems using dedicated python libraries.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;/img/activity_pics/2018_07_15_datascience_for_geoscience.JPG&quot; width=&quot;90%&quot; border=&quot;2&quot; /&gt; &lt;/center&gt;
-
-</description>
-        <pubDate>Mon, 15 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/activity/2018/01/15/data-science-for-geoscience/</link>
-        <guid isPermaLink="true">http://localhost:4000/activity/2018/01/15/data-science-for-geoscience/</guid>
         
         
         <category>activity</category>
