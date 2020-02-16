@@ -81,7 +81,7 @@ document.body.appendChild(css);
 
 <h2>
 <p style='text-align: center;'>
-<a href="" class="typewrite" data-period="2000" data-type='[ "Fluid Dynamics", "Scientific Computing", "Data Science", "Ocean Physics","Welcome !" ]'>
+<a href="" class="typewrite" data-period="2000" data-type='[ "Scientific Computing", "Data Science", "Applied Mathematics","high-performance data analytics","Ocean Physics" ]'>
 <span class="wrap" color=#000000  ></span>
 </a>
 </p>
@@ -96,7 +96,7 @@ document.body.appendChild(css);
 
 
 <p style='text-align: center;'>
-I'm Adekunle, a research engineer and a data science enthusiast.</p>
+I'm Adekunle, a research engineer and a data scienctist.</p>
 <br>
 
 ### Recent posts
