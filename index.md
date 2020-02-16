@@ -81,7 +81,7 @@ document.body.appendChild(css);
 
 <h2>
 <p style='text-align: center;'>
-<a href="" class="typewrite" data-period="2000" data-type='[ "Scientific Computing", "Data Science", "Applied Mathematics","high-performance data analytics","Ocean Physics" ]'>
+<a href="" class="typewrite" data-period="2000" data-type='[ "Scientific Computing", "Data Science", "Applied Mathematics","High Performance Data Analytics","Ocean Physics" ]'>
 <span class="wrap" color=#000000  ></span>
 </a>
 </p>
