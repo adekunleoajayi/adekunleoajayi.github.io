@@ -96,7 +96,7 @@ document.body.appendChild(css);
 
 
 <p style='text-align: center;'>
-I'm Adekunle, a research engineer and a data scienctist.</p>
+I'm Adekunle, a research engineer and a data scientist.</p>
 <br>
 
 ### Recent posts
