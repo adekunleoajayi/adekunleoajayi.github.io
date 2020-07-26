@@ -100,17 +100,17 @@ I am a research engineer, data scientist and an ocean physicist.</p>
 <br>
 
 <p style='text-align: justify;'>
-I am currently a research engineer at <a href="https://data-institute.univ-grenoble-alpes.fr/" target="_blank"> Grenoble Alpes Data institute </a> where I am working at the interface between deep learning and ocean physics.</p>
+I am currently a research engineer at <a href="https://data-institute.univ-grenoble-alpes.fr/" target="_blank"> Grenoble Alpes Data institute</a> where I am working at the interface between deep learning and ocean physics.</p>
 
 <br>
 
 <p style='text-align: justify;'>
-Previously, I was a doctoral researcher at the <a href="http://www.ige-grenoble.fr/" target="_blank"> Institut des Géosciences de l'Environnement </a>. At IGE, I investigated kinetic energy cascades in turbulent oceanic flow at fine-scales. This study was carried out by applying high-performance data analytics tools to analyze large-scale multidimensional geophysical datasets.</p>
+Previously, I was a doctoral researcher at the <a href="http://www.ige-grenoble.fr/" target="_blank"> Institut des Géosciences de l'Environnement</a>. At IGE, I investigated kinetic energy cascades in turbulent oceanic flow at fine-scales. This study was carried out by applying high-performance data analytics tools to analyze large-scale multidimensional geophysical datasets.</p>
 
 <br>
 
 <p style='text-align: justify;'>
-I have a PhD in (ocean) physics and a masters degree in (environmental) fluid mechanics from the <a href="http://www.univ-grenoble-alpes.fr/" target="_blank"> Université Grenoble Alpes</a>, France. I obtained a bachelor's degree (B.Tech) in applied mathematics from the <a href="https://futa.edu.ng/" target="_blank"> Federal University of Technology Akure </a>, and I am an alumnus of the prestigious Abdus Salam <a href="https://www.ictp.it/" target="_blank"> International Center for Theoretical Physics </a>, Italy.</p>
+I have a PhD in (ocean) physics and a masters degree in (environmental) fluid mechanics from the <a href="http://www.univ-grenoble-alpes.fr/" target="_blank"> Université Grenoble Alpes</a>, France. I obtained a bachelor's degree (B.Tech) in applied mathematics from the <a href="https://futa.edu.ng/" target="_blank"> Federal University of Technology Akure</a>, and I am an alumnus of the prestigious Abdus Salam <a href="https://www.ictp.it/" target="_blank"> International Center for Theoretical Physics</a>, Italy.</p>
 
 
 
