@@ -110,7 +110,7 @@ Previously, I was a doctoral researcher at the <a href="http://www.ige-grenoble.
 <br>
 
 <p style='text-align: justify;'>
-I have a PhD in (ocean) physics and a masters degree in (environmental) fluid mechanics from the <a href="http://www.univ-grenoble-alpes.fr/" target="_blank"> Université Grenoble Alpes</a>, France. I obtained a bachelor's degree (B.Tech) in applied mathematics from the <a href="https://futa.edu.ng/" target="_blank"> Federal University of Technology Akure</a>, and I am an alumnus of the prestigious Abdus Salam <a href="https://www.ictp.it/" target="_blank"> International Center for Theoretical Physics</a>, Italy.</p>
+I have a PhD in ocean physics and a masters degree in environmental fluid mechanics from the <a href="http://www.univ-grenoble-alpes.fr/" target="_blank"> Université Grenoble Alpes</a>, France. I obtained a bachelor's degree (B.Tech) in applied mathematics from the <a href="https://futa.edu.ng/" target="_blank"> Federal University of Technology Akure</a>, and I am an alumnus of the prestigious Abdus Salam <a href="https://www.ictp.it/" target="_blank"> International Center for Theoretical Physics</a>, Italy.</p>
 
 
 
