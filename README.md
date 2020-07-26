@@ -1,2 +1,2 @@
- My personal web site is [here](http://adeajayi-kunle.github.io/)
+ My personal website is [here](http://adeajayi-kunle.github.io/)
 
