@@ -17,6 +17,7 @@ Understanding turbulent cascades in the ocean at the basin/global scale is partl
 During my PhD studies, I was privileged to travel to many international conferences and workshops (see my activity page) where I had the opportunity to shear my work and also interact with distinguished scientists in the field of physical oceanography and big data in geosciences. 
 </p>
 
+<br>
 
 ## Publications
 <p style='text-align: justify;'>
