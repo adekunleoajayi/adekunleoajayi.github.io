@@ -26,7 +26,7 @@ During my PhD studies, I was privileged to travel to many international conferen
 <span style="font-weight:bold;">Ajayi, A. O.</span>, Le Sommer, J., Chassignet, E., Molines, J.M., Xu, X., Albert, A., Dewar W., 2020. <i>Diagnosing cross-scale kinetic energy exchanges from two submesoscale permitting ocean models.</i> Submitted to the Journal of Advances in Modeling Earth Systems.
 </p></li>
 
-<p style='text-align: justify;'>
+<li><p style='text-align: justify;'>
 William K. D., Quentin J., <span style="font-weight:bold;">Ajayi, A. O.</span>, Andrew M. H., Thierry P., Julien L., 2020. <i>On Energy Cascades in General Flows.</i> Submitted to the Journal of Advances in Modeling Earth Systems.
 </p></li>
 
