@@ -27,7 +27,7 @@ During my PhD studies, I was privileged to travel to many international conferen
 </p></li>
 
 <li><p style='text-align: justify;'>
-William K. D., Quentin J., <span style="font-weight:bold;">Ajayi, A. O.</span>, Andrew M. H., Thierry P., Julien L., 2020. <i>On Energy Cascades in General Flows.</i> Submitted to the Journal of Advances in Modeling Earth Systems.
+William K. D., Quentin J., <span style="font-weight:bold;">Ajayi, A. O.</span>, Andrew M. H., Thierry P., Julien L., 2020. <i>On Energy Cascades in General Flows: A Lagrangian Application.</i> Accepted for publication. Journal of Advances in Modeling Earth Systems.
 </p></li>
 
 <li><p style='text-align: justify;'>
