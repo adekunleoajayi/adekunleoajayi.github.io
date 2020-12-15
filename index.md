@@ -96,7 +96,7 @@ document.body.appendChild(css);
 
 
 <p style='text-align: justify;'>
-Currently, I am a machine learning engineer at <a href="https://spacesense.ai/" target="_blank"> SpaceSense.AI .</a> </p>  I was previously a machine learning research engineer at <a href="https://data-institute.univ-grenoble-alpes.fr/" target="_blank"> Grenoble Alpes Data institute</a> where I worked at the interface between deep learning and ocean physics.</p>
+I am a machine learning engineer at <a href="https://spacesense.ai/" target="_blank"> SpaceSense.AI</a>.   I was previously a machine learning research engineer at <a href="https://data-institute.univ-grenoble-alpes.fr/" target="_blank"> Grenoble Alpes Data institute</a> where I worked at the interface between deep learning and ocean physics.</p>
 
 <br>
 <p style='text-align: justify;'>
