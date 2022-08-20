@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title:
 ---
 <!-- Add CSS -->
 <style type="text/css">
@@ -90,7 +90,7 @@ document.body.appendChild(css);
 
 <!-- Add image -->
 <div style="display: flex; justify-content: center;">
-<img src="{{site.baseurl}}/img/Ade.jpeg" align="middle" style="width:300px;height:300px;"> 
+<img src="{{site.baseurl}}/img/Ade.jpeg" align="middle" style="width:300px;height:300px;">
 </div>
 <br>
 
@@ -101,11 +101,3 @@ I am a machine learning engineer at <a href="https://spacesense.ai/" target="_bl
 <br>
 <p style='text-align: justify;'>
 I have a PhD in ocean physics and a masters degree in environmental fluid mechanics from the <a href="http://www.univ-grenoble-alpes.fr/" target="_blank"> Université Grenoble Alpes</a>, France. I obtained a bachelor's degree (B.Tech) in applied mathematics from the <a href="https://futa.edu.ng/" target="_blank"> Federal University of Technology Akure</a>, and I am an alumnus of the prestigious Abdus Salam <a href="https://www.ictp.it/" target="_blank"> International Center for Theoretical Physics</a>, Italy.</p>
-
-
-
-
-
-
-
-

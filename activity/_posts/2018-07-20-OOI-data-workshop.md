@@ -15,5 +15,3 @@ This week, I participated in the <a href="https://oceanobservatories.org/" targe
 <br>
 <!-- Add image -->
 <center><img src="{{site.baseurl}}/img/activity_pics/2018_07_20_OOI.JPG" width="70%" border="2"/> </center>
-
-

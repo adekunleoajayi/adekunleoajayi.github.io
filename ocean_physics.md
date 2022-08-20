@@ -14,7 +14,7 @@ Understanding turbulent cascades in the ocean at the basin/global scale is partl
 </p>
 
 <p style='text-align: justify;'>
-During my PhD studies, I was privileged to travel to many international conferences and workshops (see my activity page) where I had the opportunity to shear my work and also interact with distinguished scientists in the field of physical oceanography and big data in geosciences. 
+During my PhD studies, I was privileged to travel to many international conferences and workshops (see my activity page) where I had the opportunity to shear my work and also interact with distinguished scientists in the field of physical oceanography and big data in geosciences.
 </p>
 
 <br>
@@ -51,5 +51,3 @@ Omowaye A.J., and <span style="font-weight:bold;">Ajayi, A. O.</span>, 2014. <i>
 </p></li>
 
 </ol>
-
-

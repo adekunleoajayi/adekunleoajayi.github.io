@@ -19,7 +19,7 @@ The two weeks summer school included lectures and hands-on activities that spann
 <br>
 <!-- Add image -->
 <center>
-<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_1.PNG" width="90%" border="2"/> 
-<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_2.JPG" width="90%" border="2"/> 
-<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_3.JPG" width="90%" border="2"/> 
+<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_1.PNG" width="90%" border="2"/>
+<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_2.JPG" width="90%" border="2"/>
+<img src="{{site.baseurl}}/img/GODAE/2017_10_13_godae_3.JPG" width="90%" border="2"/>
 </center>

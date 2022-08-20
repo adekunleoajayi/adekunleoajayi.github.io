@@ -11,7 +11,7 @@ June 8th of every year is dedicated as world oceans day and ocean lovers gather 
 
 <br>
 <!-- Add image -->
-<center><img src="{{site.baseurl}}/img/oceansday2018/gropupics.jpg" height="300" border="2"/> 
+<center><img src="{{site.baseurl}}/img/oceansday2018/gropupics.jpg" height="300" border="2"/>
 <img src="{{site.baseurl}}/img/oceansday2018/stand.jpg" height="300" border="2"/></center>
 
 <br>
