@@ -12,5 +12,5 @@ EGU General Assembly 2019
 
 <!-- Add image -->
 <center>
-<img src="{{site.baseurl}}/img/activity_pics/2019_04_07_EGU19.JPG" height="300" border="2"/> 
+<img src="{{site.baseurl}}/img/activity_pics/2019_04_07_EGU19.JPG" height="300" border="2"/>
 </center>

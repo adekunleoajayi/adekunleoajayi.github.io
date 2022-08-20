@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adekunle Ajayi</title>
+    <title>Adekunle Ajayi, PhD</title>
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 May 2019 20:23:40 +0200</pubDate>
-    <lastBuildDate>Thu, 16 May 2019 20:23:40 +0200</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
-    
+    <pubDate>Sun, 21 Aug 2022 00:23:27 +0200</pubDate>
+    <lastBuildDate>Sun, 21 Aug 2022 00:23:27 +0200</lastBuildDate>
+    <generator>Jekyll v3.9.2</generator>
+
+      <item>
+        <title>Big Data Analytics</title>
+        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
+Big Data Analytics training is a one week program organized by the Barcelona Supercomputing Centre (&lt;a href=&quot;https://www.bsc.es/&quot; target=&quot;_blank&quot;&gt;BSC&lt;/a&gt;) and the Partnership for Advanced Computing in Europe (PRACE). The training focused on data-intensive computing with hands-on sessions on the application of Hadoop ecosystem to store, and analyze large volumes of unstructured data.
+&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Feb 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/activity/2020/02/03/Big-Data-Analystics-BSC/</link>
+        <guid isPermaLink="true">http://localhost:4000/activity/2020/02/03/Big-Data-Analystics-BSC/</guid>
+
+
+        <category>activity</category>
+
+      </item>
+
       <item>
         <title>EGU General Assembly 2019</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -17,18 +32,18 @@ EGU General Assembly 2019
 
 &lt;!-- Add image --&gt;
 &lt;center&gt;
-&lt;img src=&quot;/img/activity_pics/2019_04_07_EGU19.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
+&lt;img src=&quot;/img/activity_pics/2019_04_07_EGU19.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt;
 &lt;/center&gt;
 </description>
         <pubDate>Sun, 07 Apr 2019 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2019/04/07/EGU-general-assembly/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2019/04/07/EGU-general-assembly/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>Mesoscale Eddy Energy Workshop </title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -42,43 +57,41 @@ Sources and Sinks of Ocean Mesoscale Eddy Energy
         <pubDate>Tue, 12 Mar 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/activity/2019/03/12/US_CLIVAR_OME/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2019/03/12/US_CLIVAR_OME/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>DRAKKAR 2019 Annual Workshop </title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
 Drakkar workshop is an annual scientific gathering, where NEMO based ocean model users discuss scientific results, progress achieved with the model configuration and also future plans to improve the model development. During the meeting, I gave a talk on the regimes of inverse energy cascade in ocean mesoscale inertial range based on the outputs of two submesoscale permitting ocean models NATL60 and HYCOM50.
 &lt;/p&gt;
-
 </description>
         <pubDate>Mon, 21 Jan 2019 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/activity/2019/01/21/drakkar_meeting_2019/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2019/01/21/drakkar_meeting_2019/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>Journees Nationales SWOT 2018</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
 Journees Nationales SWOT is a scientific gathering aim at bringing together the French &lt;a href=&quot;https://swot.jpl.nasa.gov/&quot; target=&quot;_blank&quot;&gt;SWOT&lt;/a&gt; community working on SWOT related research (oceanography and hydrology).  This year, at the level of the meeting, updates on the workdone so far (as regard preparation for SWOT) and identifying particular concerns and planing for the future scientific work was of great piority. There were presentation by participants on the ongoing/concluded research work. The meeting took place within the &lt;a href=&quot;https://cnes.fr/&quot;&gt;CNES&lt;/a&gt; premises at Toulouse.  &lt;/p&gt;
-
 </description>
         <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/activity/2018/11/20/journees_nationales_swot/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/11/20/journees_nationales_swot/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>Oceanhack : Data science + Oceanography</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -89,12 +102,12 @@ Journees Nationales SWOT is a scientific gathering aim at bringing together the 
         <pubDate>Fri, 24 Aug 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2018/08/24/ocean-hack-weak/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/08/24/ocean-hack-weak/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>PANGEO Developers Workshop</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -113,17 +126,16 @@ Journees Nationales SWOT is a scientific gathering aim at bringing together the 
     &lt;p&gt;Improve scalability of these tools to handle petabyte-scale datasets on HPC and cloud platforms.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
 </description>
         <pubDate>Mon, 13 Aug 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2018/08/13/PANGEO-developers-workshop/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/08/13/PANGEO-developers-workshop/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>OOI Data Workshop</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -135,17 +147,16 @@ This week, I participated in the &lt;a href=&quot;https://oceanobservatories.org
 &lt;p&gt;&lt;br /&gt;
 &lt;!-- Add image --&gt;&lt;/p&gt;
 &lt;center&gt;&lt;img src=&quot;/img/activity_pics/2018_07_20_OOI.JPG&quot; width=&quot;70%&quot; border=&quot;2&quot; /&gt; &lt;/center&gt;
-
 </description>
         <pubDate>Mon, 16 Jul 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2018/07/16/OOI-data-workshop/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/07/16/OOI-data-workshop/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>SWOT Science Team Meeting</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -161,12 +172,12 @@ Every year, scientists involved in the design, planning and preparation of &lt;a
         <pubDate>Tue, 26 Jun 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2018/06/26/SWOT-science-team-meeting/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/06/26/SWOT-science-team-meeting/</guid>
-        
-        
+
+
         <category>activity</category>
-        
+
       </item>
-    
+
       <item>
         <title>World Oceans Day 2018</title>
         <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
@@ -174,7 +185,7 @@ June 8th of every year is dedicated as world oceans day and ocean lovers gather 
 
 &lt;p&gt;&lt;br /&gt;
 &lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;&lt;img src=&quot;/img/oceansday2018/gropupics.jpg&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
+&lt;center&gt;&lt;img src=&quot;/img/oceansday2018/gropupics.jpg&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt;
 &lt;img src=&quot;/img/oceansday2018/stand.jpg&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt;&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -184,39 +195,11 @@ June 8th of every year is dedicated as world oceans day and ocean lovers gather 
         <pubDate>Fri, 08 Jun 2018 00:00:00 +0200</pubDate>
         <link>http://localhost:4000/activity/2018/06/08/world-oceans-day/</link>
         <guid isPermaLink="true">http://localhost:4000/activity/2018/06/08/world-oceans-day/</guid>
-        
-        
-        <category>activity</category>
-        
-      </item>
-    
-      <item>
-        <title>Ocean sciences meeting</title>
-        <description>&lt;p style=&quot;text-align: justify;&quot;&gt;
-The Ocean sciences meeting is a biennial scientific meeting for marine oriented specialists around the world. It is the largest of such gathering with organised sessions that includes all aspect of oceanography research. This year's meeting took place in Portland and I was happy to present my work during one of the poster sessions. &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;img src=&quot;/img/activity_pics/2018_02_15_ocean_sciences_0.PNG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;img src=&quot;/img/activity_pics/2018_02_15_ocean_sciences_1.jpeg&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;img src=&quot;/img/activity_pics/2018_02_15_ocean_sciences_2.jpeg&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;/center&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;!-- Add image --&gt;&lt;/p&gt;
-&lt;center&gt;
-&lt;img src=&quot;/img/activity_pics/2018_02_15_ocean_sciences_3.JPG&quot; height=&quot;300&quot; border=&quot;2&quot; /&gt; 
-&lt;/center&gt;
-</description>
-        <pubDate>Sun, 11 Feb 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/activity/2018/02/11/ocean-sciences-meetings/</link>
-        <guid isPermaLink="true">http://localhost:4000/activity/2018/02/11/ocean-sciences-meetings/</guid>
-        
-        
         <category>activity</category>
-        
+
       </item>
-    
+
   </channel>
 </rss>

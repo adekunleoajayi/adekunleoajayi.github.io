@@ -12,5 +12,3 @@ location : Grenoble, France.
 <br>
 <!-- Add image -->
 <center><img src="{{site.baseurl}}/img/activity_pics/2018_07_15_datascience_for_geoscience.JPG" width="90%" border="2"/> </center>
-
-

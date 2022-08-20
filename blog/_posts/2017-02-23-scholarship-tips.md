@@ -5,59 +5,59 @@ date: 2017-02-23
 ---
 
 <p style='text-align: justify;'>
-Scholarship application can sometimes be very tedious but the stress is nothing compare to the joy of studying in a conducive environment with state of the art facilities and a zero personal financial responsibility. There are couple of things to note if you are interested in applying to one or many of these numerous available scholarship opportunities. Some scholarships offers are specifically slated for students from developing countries while some are  open to all students irrespective of country or gender. In this write up, you will find information as regard necessary documents needed for scholarship application, where to find a scholarship offer, how to apply to a scholarship and how to contact a potential supervisor.  </p>
+Scholarship applications can sometimes be very tedious but the stress is nothing compared to the joy of studying in a conducive environment with state-of-the-art facilities and zero personal financial responsibility. There are a couple of things to note if you are interested in applying to one or many of these numerous available scholarship opportunities. Some scholarship offers are specifically slated for students from developing countries while some are open to all students irrespective of country. In this write-up, you will find information as regards necessary documents needed for scholarship application, where to find a scholarship offer, how to apply for a scholarship and how to contact a potential supervisor.</p>
 
 #### 1. What documents do you need ?
 
 #### 1.1 Required
 
 <p style='text-align: justify;'>
-<b>Transcript </b>: Your academic transcript is a key document for your application. Most transcript come as a list of your courses with the grades obtained. In my view that is not sufficient enough because it only contains a course title with grade and not an account of the course synopsis. You should be aware that two courses with the same title might cover different topics and application depending on the university, department or Country. So it is imperative you prepare a synopsis of all the courses you listed in your transcript then attach it to the transcript as a single pdf. Doing this will give the application reviewer a full sense of the skills you acquired from the courses you followed.</p>
+<b>Transcript </b>: Your academic transcript is a key document for your application. Most transcripts come as a list of your courses with the grades obtained. In my view that is not sufficient enough because it only contains a course title with grade and not an account of the course synopsis. You should be aware that two courses with the same title might cover different topics and applications depending on the university, department, or Country. So you must prepare a synopsis of all the courses you listed in your transcript and then attach it to the transcript as a single pdf. Doing this will give the application reviewer a full sense of the skills you acquired from the courses you followed.</p>
 
 <p style='text-align: justify;'>
-You can get your transcripts from the exams and records section of the registrar office of your university. I understand that most universities, for instance in Nigeria are reluctant towards giving out the original transcript to students for reasons not clear to me. However, the students' copy is well accepted by some institutions while other institutions may accept it if it is certified by a court of Law.</p>
+You can get your transcripts from the exams and records section of the registrar's office of your university. I understand that most universities, for instance in Nigeria are reluctant towards giving out the original transcript to students for reasons not clear to me. However, the students' copy is well accepted by some institutions while other institutions may accept it if it is certified by a court of Law.</p>
 
 <p style='text-align: justify;'>
-<b>Statement of Purpose </b>: One of the most important parts of your application is the statement of purpose, it presents you to the admission/scholarship committee as though you are right in front of them. So writing an SOP requires some delicate skills which I shall discuss later in my future post. You will find <a href="https://crunchprep.com/gre/2014/powerful-statement-of-purpose" target="_blank"> crunchprep </a> and <a href="http://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf" target="_blank"> MIT SOP Guidelines</a> very useful towards writing your personal SOP.</p>
+<b>Statement of Purpose </b>: One of the most important parts of your application is the statement of purpose, it presents you to the admission/scholarship committee as though you are right in front of them. So writing an SOP requires some skills which I shall discuss later in my future post. You will find <a href="https://crunchprep.com/gre/2014/powerful-statement-of-purpose" target="_blank"> crunchprep </a> and <a href="http://web.mit.edu/msrp/myMSRP/docs/Statement%20of%20purpose%20guidelines.pdf" target="_blank"> MIT SOP Guidelines</a> very useful towards writing your personal SOP.</p>
 
 <p style='text-align: justify;'>
-Note: Statement of purpose / Letter of Motivation are quite similar but sometimes differ in content depending on the requirement of the admission/scholarship board. However, some English scholars would argue that "<i>A Letter of Motivation is focusing on what brought you to the program, your history and desires. It addresses why you arrived at where you are </i> while <i> a Statement of Purpose is focusing on your goals for the program, your future and desires. It addresses what you want to do after you get in </i> bla bla bla" . if you want to enjoy more engaging argument about the two terms you can check this <a href="https://www.quora.com/What-is-the-difference-LOM-Letter-of-Motivation-and-SOP-Statement-of-Purpose" target="_blank"> quora page. </a> </p>
+Note: Statement of Purpose / Letter of Motivation are quite similar but sometimes differ in content depending on the requirement of the admission/scholarship board. However, some English scholars would argue that "<i>A Letter of Motivation is focusing on what brought you to the program, your history, and desires. It addresses why you arrived at where you are </i> while <i> a Statement of Purpose is focusing on your goals for the program, your future, and desires. It addresses what you want to do after you get in </i> bla bla bla" . if you want to enjoy a more engaging argument about the two terms you can check this <a href="https://www.quora.com/What-is-the-difference-LOM-Letter-of-Motivation-and-SOP-Statement-of-Purpose" target="_blank"> quora page. </a> </p>
 
 <p style='text-align: justify;'>
-<b>Degree Certificate or Notification of results </b>: Some institutions strongly demand for the degree certificate as part of the application documents but it is not as important as your academic transcript. However, if accepted for admission and granted scholarship, It is compulsory for you to submit a copy of your certificate as an evidence that you completed the said degree program.</p>
+<b>Degree Certificate or Notification of results </b>: Some institutions strongly demand the degree certificate as part of the application documents but it is not as important as your academic transcript. However, if accepted for admission and granted a scholarship, you must submit a copy of your certificate as evidence that you completed the said degree program.</p>
 
 
 <p style='text-align: justify;'>
-<b>Referees </b>: The scholarship committee takes the report of a referee seriously and it carries a large mark of your application rating. To this end, it is imperative for you to enlist as a referee, a lecturer (preferably a Professor or senior lecturer) that knows about your academic status and your research strength, who is willing and ready to write a comprehensive report about you. A two paragraph reference letter (as is always the case from some lecturers) would not get you that scholarship of your dream.</p>
+<b>Referees </b>: The scholarship committee takes the report of a referee seriously and it carries a large mark on your application rating. To this end, you must enlist as a referee, a lecturer (preferably a Professor or senior lecturer) that knows about your academic status and your research strength, and who is willing and ready to write a comprehensive report about you. A two-paragraph reference letter (as is always the case with some lecturers) would not get you that scholarship of your dream.</p>
 
 <p style='text-align: justify;'>
-<b>International Passport </b>: This is needed at a point in the application processes to confirm your country of origin. You can obtain an international passport from the office of the immigration at any state in your country.</p>
+<b>International Passport </b>: This is needed at a point in the application process to confirm your country of origin. You can obtain an international passport from the office of immigration in any state in your country.</p>
 
 
 #### 1.2 Optional but important
 
 <p style='text-align: justify;'>
-<b>TOEFL - <a href="https://www.ets.org/toefl" target="_blank">Test of English as a Foreign Language</a> </b> : TOEFL has over the years become a necessary exam to be taken by students applying to international programs conducted in English language but who are natives of non-English speaking countries. However, students of certain countries (eg Nigeria, Ghana) are exempted from taking the exams by some universities in Canada, USA and Europe because English is the official language in Nigeria. However, its advisable to write the test as it increases your chances of been selected amongst a vast pool of qualified candidates. Detailed information about the test, venue , cost and materials can be obtained from the test website. It is worth noting that IELTS serves the same purpose as TOEFL.</p>
+<b>TOEFL - <a href="https://www.ets.org/toefl" target="_blank">Test of English as a Foreign Language</a> </b> : TOEFL has over the years become a necessary exam to be taken by students (who are natives of non-English speaking countries) applying to international programs conducted in the English language. However, students of certain countries (eg Nigeria, Ghana) are exempted from taking the exams by some universities in Canada, the USA, and Europe because English is the official language in Nigeria. However, it is advisable to write the test as it increases your chances of being selected amongst a vast pool of qualified candidates. Detailed information about the test, venue, cost, and materials can be obtained from the test website. It is worth noting that IELTS serves the same purpose as TOEFL.</p>
 
 <p style='text-align: justify;'>
 <b>GRE - <a href="https://www.ets.org/gre/" target="_blank">Graduate Record Examinations </a> </b>: GRE is mostly required by universities in USA and Canada for science and engineering-oriented courses.</p>
 
 <p style='text-align: justify;'>
-<b>Letter of English Language proficiency </b>: In lieu of TOEFL and IELTS, some universities in Nigeria like FUTA do issue Letter of English Language proficiency to support graduate application to foreign universities. You can request for this at the office of the registrar. Also, students from institutions (irrespective of the country) where English language is the official mode of instruction (degree taught and examined in English) can equally request for this certificate to be used in lieu of TOEFL/IELTS. </p>
+<b>Letter of English Language proficiency </b>: In place of TOEFL and IELTS, some universities in Nigeria like FUTA issue Letters of English Language proficiency to support graduate applications to foreign universities. You can request this at the office of the registrar. Also, students from institutions (irrespective of the country) where the English language is the official mode of instruction (degree taught and examined in English) can equally request this certificate. </p>
 
 
 #### 2. Who gives scholarship/grant/award ?
 <p style='text-align: justify;'>
-Scholarships are given mostly by universities and federal governments. Nonetheless, a large number of awards are equally available from other agencies such as, research institutes, private companies, research and development units of industries, banks, government parastatals, etc. In a situation where the awarding institution is not a university, the funding might be handed directly to the recipient or allocated via the university. </p>
+Scholarships are awarded mostly by universities and federal governments. Nonetheless, a large number of awards are equally available from other agencies such as research institutes, private companies, research and development units of industries, banks, government parastatals, etc. In a situation where the awarding institution is not a university, the funding might be handed directly to the recipient or allocated via the university. </p>
 
 <p style='text-align: justify;'>
-The call for scholarship applications are sometimes handled by the awarding institutions (not the university in this case), and it could be difficult for prospecting students to get information as to the advertised openings. So, it is highly recommended to look beyond the university environment if you are seriously in need of a scholarship. </p>
+The call for scholarship applications is sometimes handled by the awarding institutions (not the university in this case), and it could be difficult for prospecting students to get information as to the advertised openings. So, it is highly recommended to look beyond the university environment if you are seriously in need of a scholarship. </p>
 
 
 #### 3. Where to find a scholarship advert ?
 
 <p style='text-align: justify;'>
-Most information about scholarship offers are readily available on the Internet, all you need is to either subscribe to Facebook groups, mailing lists that updates scholarships positions, or you can google it by typing specific key words. Below is a list of few scholarship websites;</p>
+Most information about scholarship offers is readily available on the Internet, all you need is to either subscribe to Facebook groups, or mailing lists that update scholarship positions, or you can google it by typing specific keywords. Below is a list of a few scholarship websites;</p>
 
 **General scholarship sites** : All possible subjects <br>
 - [Scholarships for development](http://www.scholars4dev.com/){:target="_blank"} <br>
@@ -108,23 +108,23 @@ Most information about scholarship offers are readily available on the Internet,
 - [Phd and Postdocs](https://www.facebook.com/groups/143733582342736/){:target="_blank"}<br>
 
 <p style='text-align: justify;'>
-Scholarship offers are numerous and many do not find there way to the pages of the websites listed above. To get information about these funding, you need to search the university, laboratory websites or rather punch in some specific key words on google. Graduate/Research assistants positions may be advertised or not, depending on the university. For some universities, you need to contact a potential supervisor then discuss if he/she has research grants to acquire you as a GA for a masters degree or a Phd. Also, graduate funding in the US comes mostly as GA positions, so you need to check the website of the Department/University you intend to apply to.</p>
+Scholarship offers are numerous and many do not find their way to the pages of the websites listed above. To get information about this funding, you need to search the university, and laboratory websites or rather punch in some specific keywords on google. Graduate/Research assistants positions may be advertised or not, depending on the university. For some universities, you need to contact a potential supervisor and then discuss if he/she has research grants to acquire you as a GA for a master's degree or a Ph.D. Also, graduate funding in the US comes mostly as GA positions, so you need to check the website of the Department/University you intend to apply to.</p>
 
 #### 4. How do you apply ?
 
 <p style='text-align: justify;'>
-Most applications are online except for few universities that request for hard-copies. The application procedure will definitely be highlighted in the scholarship advert. Most schools in USA will consider your application for both admission and scholarship simultaneously while some universities in Europe would consider you for admission first, then you apply for a scholarship separately. However, some offers require you to contact the professor in charge first before making a formal application.</p>
+Most applications are online except for a few universities that request hard copies. The application procedure will be highlighted in the scholarship advert. Most schools in the USA will consider your application for both admission and scholarship simultaneously while some universities in Europe would consider you for admission first, then you apply for a scholarship separately. However, some offers require you to contact the professor in charge first before making a formal application.</p>
 
 <p style='text-align: justify;'>
-The application documents might be more complex compared to what I listed above depending on the university requirement. However, experience has shown that most application process requires at least those aforementioned documents. Nevertheless, a list of required documents will be made available by the admission committee and you can always send emails requesting for clarification on issues.</p>
+The application documents might be more complex compared to what I listed above depending on the university requirement. However, experience has shown that most application process requires at least those aforementioned documents. Nevertheless, a list of required documents will be made available by the admission committee and you can always send emails requesting clarification on issues.</p>
 
 #### 5. How to contact a potential supervisor
 <p style='text-align: justify;'>
-This part is mostly useful for Phd applicants. For students who are not opportune to meet a potential supervisor in person for the first meeting, then you need to be skilful in writing an email that will catch the attention of the professor. There are do's and don't to this and I personally find the <a href="http://www.cs.virginia.edu/~evans/advice/prospective.html" target="_blank"> talk by Professor David</a> good enough as a summary of what you should do and not do. </p>
+This part is mostly useful for Ph.D. applicants. For students who are not opportune to meet a potential supervisor in person for the first meeting, then you need to be skillful in writing an email that will catch the attention of the professor. There are "do's and don't" to this and I find the <a href="http://www.cs.virginia.edu/~evans/advice/prospective.html" target="_blank"> talk by Professor David</a> good enough as a summary of what you should do and not do. </p>
 
 
 <p style='text-align: justify;'>
-As highlighted above, you can attain your academic pinnacle by claiming one of the several scholarships available out there. Yes, the search may not be smooth most especially if you are from a developing country and you desire a postgraduate study in a developed country (hmmm, don't be afraid, I survived that divide as-well). Nevertheless, determination is the watchword. Don't be disappointed when the rejection letter arrives early, just hang on, the acceptance letter will surely follow. I wish you good luck in your ultimate search. Cheers!
+As highlighted above, you can attain your academic pinnacle by claiming one of the several scholarships available out there. Yes, the search may not be smooth especially if you are from a developing country and you desire a postgraduate study in a developed country (hmmm, don't be afraid, I survived that divide as well). Nevertheless, determination is the watchword. Don't be disappointed when the rejection letter arrives early, just hang on, the acceptance letter will surely follow. I wish you good luck in your ultimate search. Cheers!
 </p>
 
 

@@ -17,4 +17,4 @@ header-img: img/home-bg.jpg
 # Build settings
 markdown: kramdown
 permalink: pretty
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","vendor"]

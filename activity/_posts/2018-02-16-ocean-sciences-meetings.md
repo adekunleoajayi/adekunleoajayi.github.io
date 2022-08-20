@@ -12,13 +12,13 @@ The Ocean sciences meeting is a biennial scientific meeting for marine oriented 
 <br>
 <!-- Add image -->
 <center>
-<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_0.PNG" height="300" border="2"/> 
-<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_1.jpeg" height="300" border="2"/> 
-<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_2.jpeg" height="300" border="2"/> 
+<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_0.PNG" height="300" border="2"/>
+<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_1.jpeg" height="300" border="2"/>
+<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_2.jpeg" height="300" border="2"/>
 </center>
 
 <br>
 <!-- Add image -->
 <center>
-<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_3.JPG" height="300" border="2"/> 
+<img src="{{site.baseurl}}/img/activity_pics/2018_02_15_ocean_sciences_3.JPG" height="300" border="2"/>
 </center>

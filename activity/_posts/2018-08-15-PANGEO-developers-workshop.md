@@ -15,5 +15,4 @@ The goal of PANGEO is to;
 
 - Support the development with domain-specific geoscience packages and
 
-- Improve scalability of these tools to handle petabyte-scale datasets on HPC and cloud platforms. 
-
+- Improve scalability of these tools to handle petabyte-scale datasets on HPC and cloud platforms.

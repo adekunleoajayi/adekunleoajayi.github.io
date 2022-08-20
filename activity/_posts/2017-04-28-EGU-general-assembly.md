@@ -15,6 +15,6 @@ EGU provides a platform for scientists, especially early career researchers, to 
 <br>
 <!-- Add image -->
 <center>
-<img src="{{site.baseurl}}/img/activity_pics/2017_04_23_EGU_1.JPG" height="300" border="2"/> 
-<img src="{{site.baseurl}}/img/activity_pics/2017_04_23_EGU_2.JPG" height="300" border="2"/> 
+<img src="{{site.baseurl}}/img/activity_pics/2017_04_23_EGU_1.JPG" height="300" border="2"/>
+<img src="{{site.baseurl}}/img/activity_pics/2017_04_23_EGU_2.JPG" height="300" border="2"/>
 </center>
