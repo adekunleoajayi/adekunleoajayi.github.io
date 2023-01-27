@@ -96,5 +96,5 @@ document.body.appendChild(css);
 
 
 <p style='text-align: justify;'>
-I am Adekunle Ajayi, and I am currently a senior software engineer at Talend. If you are interested in my CV, kindly check my <a href=" https://www.linkedin.com/in/adekunle-ajayi/" target="_blank">profile</a> on LinkedIn.</p>
+I am Adekunle Ajayi, and I am currently a senior software engineer at Talend. You are welcome to my page. If you are interested in my CV, kindly check my <a href=" https://www.linkedin.com/in/adekunle-ajayi/" target="_blank">profile</a> on LinkedIn.</p>
 
