@@ -5,13 +5,13 @@
 
 # Site settings
 title: Adekunle Ajayi, PhD
-email: adekunle.ajayi@univ-grenoble-alpes.fr
+email: adeajayi.kunle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://adeajayi-kunle.github.io/
-github_username:  adeajayi-kunle
-twitter_username: adeajayi_kunle
-facebook_username: adeajayi.kunle
+url: https://adekunleoajayi.github.io/
+github_username:  adekunleoajayi
+twitter_username: adekunleoajayi
+# facebook_username: adeajayi.kunle
 header-img: img/home-bg.jpg
 
 # Build settings
